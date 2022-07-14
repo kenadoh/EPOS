@@ -1,2 +1,2 @@
-# Supermarket-POS
+# Supermarket-EPOS
 React
