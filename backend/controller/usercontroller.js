@@ -104,7 +104,7 @@ return res.status(200).json ({
     "code":"00",
     "message": user,
     "token": token,
-    "lastname":lastname ==null
+    
 })
 
 
